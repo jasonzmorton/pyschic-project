@@ -1,0 +1,2 @@
+# pyschic-project
+easy homework
